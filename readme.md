@@ -13,7 +13,7 @@ what you are tasked with for this task.
 
 - [x] Fork this repo and clone a local copy to work in.
 
-- [x] Read the provided `NumberTriange.java` file to understand the definition of a number triangle and what
+- [x] Read the provided `NumberTriangle.java` file to understand the definition of a number triangle and what
       methods and variables we have defined to represent the structure.
 
 - [x] Implement the static method for loading a number triangle from a file.
